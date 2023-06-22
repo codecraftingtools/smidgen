@@ -14,12 +14,12 @@ of input and output data is defined using `Tydl`_.
 `documentation`_ is hosted on `Read the Docs`_ and the `source code`_
 can be found on `GitHub`_.
 
-.. _Tydl: https://www.codecraftsmen.org/software.html#tydl
-.. _Smidgen: https://www.codecraftsmen.org/software.html#smidgen
+.. _Tydl: https://tools.codecraftsmen.org/software.html#tydl
+.. _Smidgen: https://tools.codecraftsmen.org/software.html#smidgen
 .. _Code Craftsmen: https://www.codecraftsmen.org
 .. _documentation: https://smidgen.readthedocs.io
-.. _Read the Docs: https://www.codecraftsmen.org/foundation.html#read-the-docs
+.. _Read the Docs: https://tools.codecraftsmen.org/foundation.html#read-the-docs
 .. _source code: https://github.com/codecraftingtools/smidgen
-.. _GitHub: https://www.codecraftsmen.org/foundation.html#github
+.. _GitHub: https://tools.codecraftsmen.org/foundation.html#github
 
 ..  sphinx-include-summary-end
